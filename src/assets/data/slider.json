@@ -1,0 +1,17 @@
+{
+  "side": [
+    {
+      "name": "EMPRESAS",
+      "subName": "Empresas",
+      "icon": "../../components/icons/IconDocument.vue"
+    },
+    {
+      "name": "ARTÍCULOS",
+      "subName": "Artículos"
+    },
+    {
+      "name": "COLABORADORES",
+      "subName": "Colaboradores"
+    }
+  ]
+}

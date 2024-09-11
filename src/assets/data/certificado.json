@@ -1,0 +1,25 @@
+{
+  "certificado": [
+    {
+      "name": "Certificado",
+      "description": "Conoce los beneficios que tenemos para ti al registrarte",
+      "btntext": "+ Beneficios"
+    },
+    {
+      "name": "Crear cuenta",
+      "description": "Conoce los beneficios que tenemos para ti al registrarte",
+      "btntext": "Ver todo"
+    },
+    {
+      "name": "Certificado",
+      "description": "Conoce los trámites más solicitados",
+      "btntext": "Ver todo"
+    }
+  ],
+  "tramites": [
+    {
+        "title": "Trámites en tu mano",
+        "content": "Ahora podrás hacer todos tus trámites desde la comidad de ti casa, desde cualquier dispositivo computadoram tablet o móvil"
+    }
+  ]
+}
